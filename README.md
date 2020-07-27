@@ -7,5 +7,6 @@ Un gran blog para practicar
 * Exo-planetas
 * Tipos de energías
 * Relatividad
+* Creado por Adrian
 
 Esto con fines didacticos del creador.
