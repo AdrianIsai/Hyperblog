@@ -9,4 +9,6 @@ Un gran blog para practicar
 * Relatividad
 * Creado por Adrian
 * Incluyo ejemplos de simulacion 
+* Disponible para todas las edades
+
 Esto con fines didacticos del creador.
